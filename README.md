@@ -1,12 +1,12 @@
 # Conure
 MOOSE application for reading files
 
-Steps for reading file 
+# Steps for reading file 
 1) Activate MOOSE conda environment
 
 
 
-Copyable commands 
+# Copyable commands 
 conda activate moose
 
 
@@ -15,7 +15,8 @@ conda activate moose
 
 
 
-When storing changes on GitHub : 
+# When storing changes on GitHub : 
+
 cd/home/uranium_cakes/projects/conure
 git remote add origin https://github.com/UraniumCakes/conure
 git commit -m "Initial code commit"
