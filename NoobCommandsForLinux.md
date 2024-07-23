@@ -1,18 +1,18 @@
 # Fundamental commands to know
-## Navigating the directory
-### Current situation in directory
+### Navigating the directory
+Current situation in directory
 ```
 pwd
 ```
-### Go to previous file 
+ Go to previous file 
 ```
 cd -
 ```
-### Go to a file
+ Go to a file
 ```
 cd FileName
 ```
-### Go back home 
+ Go back home 
 ```
 cd
 ```
