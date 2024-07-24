@@ -16,3 +16,7 @@ cd FileName
 ```
 cd
 ```
+List files and directories in the current directory
+```
+ls
+```
