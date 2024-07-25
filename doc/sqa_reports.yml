@@ -1,0 +1,6 @@
+Applications:
+    conure:
+        app_types:
+            - ConureApp
+        content_directory: ${ROOT_DIR}/doc/content
+        log_default: WARNING
