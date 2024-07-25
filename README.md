@@ -10,7 +10,7 @@ conda activate moose
 ```
 (replace gmsh_test.i with the name of your file) <br />
 
-### Running a problem<br />
+### Running a problem
 ```
 cd ~/projects/moose/examples/ex01_inputfile 
 make -j8 
@@ -22,4 +22,12 @@ cd/home/uranium_cakes/projects/conure
 git remote add origin https://github.com/UraniumCakes/conure  <br />
 git commit -m "Initial code commit"  <br />
 git push -u origin main
+```
+### Opens a list of all files and directories in current directory
+```
+ls
+```
+### To modify a file
+```
+nano 'file name'
 ```
