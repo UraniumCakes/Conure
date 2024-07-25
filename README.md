@@ -1,6 +1,25 @@
-Conure
-=====
+# Conure
+MOOSE application for reading files created by an absolute noob
 
-Fork "Conure" to create a new MOOSE-based application.
 
-For more information see: [https://mooseframework.org/getting_started/new_users.html#create-an-app](https://mooseframework.org/getting_started/new_users.html#create-an-app)
+## Copyable commands 
+### Running a test
+```
+conda activate moose  
+~/projects/moose/test/tests/mesh/gmsh$ ~/projects/moose/modules/combined/combined-opt -i gmsh_test.i 
+```
+(replace gmsh_test.i with the name of your file) <br />
+
+### Running a problem<br />
+```
+cd ~/projects/moose/examples/ex01_inputfile 
+make -j8 
+./ex01-opt -i ex01.i 
+```
+### When storing changes on GitHub : 
+```
+cd/home/uranium_cakes/projects/conure
+git remote add origin https://github.com/UraniumCakes/conure  <br />
+git commit -m "Initial code commit"  <br />
+git push -u origin main
+```
