@@ -1,6 +1,24 @@
 # Conure
 Conures are very small very simple minded parrots so the species is fitting for this MOOSE application created by an absolute noob.
+                                  .
+                                | \/|
+(\   _                         ) )|/|
+(/                    _----. /.'.'
+ .-._________..      .' @ _ \  .'
+ '.._______.   '.   /     (_| .')
+   '._____.  /   '-/      | _.'
+    '.______ (         ) ) \
+      '..____ '._       )  )
+         .' __.--\  , ,  // ((
+         '.'  mrf|  \/   (_.'(
+                 '   \ .'
+                  \   (
+                   \   '.
+                    \ \ '.)
+                     '-'-' 
 
+                    
+          
 ## Copyable commands 
 ### Reading a file
 ```
