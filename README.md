@@ -1,5 +1,5 @@
 # Conure
-Conures are very small very simple minded parrots so the species is fitting for this MOOSE application created by an absolute noob.
+Conures are very small very simple minded parrots, which is a fitting description for this MOOSE application created by an absolute noob.
        
 ## Copyable commands 
 ### Reading a file
