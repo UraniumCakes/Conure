@@ -1,20 +1,16 @@
 # Conure
-MOOSE application for reading files created by an absolute noob
-
+Conures are very small very simple minded parrots so the species is fitting for this MOOSE application created by an absolute noob.
 
 ## Copyable commands 
-### Running a test
+### Reading a file
 ```
 conda activate moose  
-~/projects/moose/test/tests/mesh/gmsh$ ~/projects/moose/modules/combined/combined-opt -i gmsh_test.i 
-```
-(replace gmsh_test.i with the name of your file) <br />
-
-### Running a problem
-```
-cd ~/projects/moose/examples/ex01_inputfile 
-make -j8 
-./ex01-opt -i ex01.i 
+cd projects
+cd moose
+cd modules
+cd navier_stokes
+make -j 4
+./navier_stokes-opt -i Mesh.i --mesh-only
 ```
 ### When storing changes on GitHub : 
 ```
