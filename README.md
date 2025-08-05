@@ -1,5 +1,10 @@
 # Conure
 Conures are very small very simple minded parrots, which is a fitting description for this MOOSE application created by an absolute noob.
+
+
+## Need help ? Try Mark ! 
+
+https://chatgpt.com/g/g-6890c3adc3c08191836c4f8edbe008dd-mark
        
 ## Copyable commands 
 ### Reading a file
