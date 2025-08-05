@@ -4,7 +4,7 @@ Conures are very small very simple minded parrots, which is a fitting descriptio
 
 ## Need help ? Try M.A.R.C. the Moose Assistant for Results and Coding ! 
 
-*Please note that Mark can be wrong sometimes*
+*Please note that M.A.R.C. can be wrong sometimes*
 
 Moose. Assistant. 
 
