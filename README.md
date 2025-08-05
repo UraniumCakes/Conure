@@ -8,7 +8,7 @@ Conures are very small very simple minded parrots, which is a fitting descriptio
 
 Moose. Assistant. 
 
-https://chatgpt.com/g/g-6890c3adc3c08191836c4f8edbe008dd-mark
+https://chatgpt.com/g/g-6890c3adc3c08191836c4f8edbe008dd-m-a-r-c
        
 ## Copyable commands 
 ### Reading a file
